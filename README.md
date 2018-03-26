@@ -24,8 +24,8 @@ After you install the latest Python and the required libraries, you can now open
 
 ### Sample Input (.csv file)  
 ```
-"De la Cruz, Juan P.",GitHub Inc.,March 26, 2018
-"Smith, John A.",GitHub Inc.,March 27, 2018
+"Santos, Juan P.",GitHub Inc.,3/26/18
+"Smith, John A.",GitHub Inc.,3/27/18
 ```
 ### Sample Output 
 Sample output is found inside the *generated* folder.
